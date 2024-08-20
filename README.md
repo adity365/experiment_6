@@ -54,20 +54,20 @@ int main (){
     }
 
     int o;
-    int k;
     cout << endl;
-    cout << "Enter the value you want the printing of numbers " << endl;
+    cout << "Enter the value up to which you want number to be printed " << endl;
     cin >> o;
 
+    int k = 1;
     do{
-        cout << k << endl;
+        cout << k << " ";
         k++;
-    }
-    while(o< k);
-
+    } while (k <= o);
 }
 ```
 ## OUTPUT
+![image](https://github.com/user-attachments/assets/ec756966-8966-4932-af4e-f73f3284f707)
+
 ## CONCLUSION 
 
 Learnt how to implement all the type of decision making statement loops like for, while and do while in C++ programming language
