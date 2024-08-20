@@ -25,6 +25,48 @@ A while loop is a statement that repeatedly executes a part of code as long as a
 A do-while loop is a statement that executes a part of code at least once, and then repeatedly executes the code as long as a specified condition remains true. The condition is evaluated after the execution of the code block, making sure that the code runs at least one time.
 
 ## CODE
+```
+#include<iostream>
+using namespace std;
+int main (){
+    int n ;
+    cout<< "Enter the number till which you want series to be printed" << endl;
+    cin>>n;
+
+    int i = 1;
+    
+    while(i<=n) {
+        cout<<i<<" ";
+        i = i + 1; 
+    }
+
+    int m;
+    cout << endl;
+    cout << "Enter the value you want the printing of numbers " << endl;
+    cin >> m;
+
+    cout << "Printing count from 1 till " << m << endl;
+
+    for ( int i = 1;  i <= m; i++ ){
+        
+            cout << i << " ";
+    
+    }
+
+    int o;
+    int k;
+    cout << endl;
+    cout << "Enter the value you want the printing of numbers " << endl;
+    cin >> o;
+
+    do{
+        cout << k << endl;
+        k++;
+    }
+    while(o< k);
+
+}
+```
 ## OUTPUT
 ## CONCLUSION 
 
