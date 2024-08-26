@@ -20,7 +20,7 @@ A for loop is a statement that executes a part of code repeatedly for a specific
 A while loop is a statement that repeatedly executes a part of code as long as a condition remains true. It continues to run the code until the condition evaluates to false.
 
 
-### do while() loop
+### 3. do while() loop
 
 A do-while loop is a statement that executes a part of code at least once, and then repeatedly executes the code as long as a specified condition remains true. The condition is evaluated after the execution of the code block, making sure that the code runs at least one time.
 
