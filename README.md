@@ -116,7 +116,10 @@ int main() {
 
 ```
 ## OUTPUT
-![image](https://github.com/user-attachments/assets/ec756966-8966-4932-af4e-f73f3284f707)
+![image](https://github.com/user-attachments/assets/e9105013-0a78-4582-9507-5aaf2f2d028a)
+![image](https://github.com/user-attachments/assets/e12ca7e9-9ddf-4145-8019-ad0bfdf2873b)
+
+
 
 ## CONCLUSION 
 
